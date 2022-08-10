@@ -1,0 +1,15 @@
+.about {
+    position: relative;
+    padding: 100px;
+    background: #051c44;
+}
+
+.about h2 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.about p {
+    color: #fff;
+}
